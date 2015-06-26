@@ -8,7 +8,7 @@ Based off of [angular-seed](https://github.com/angular/angular-seed).
 ## Included tools
 
 - AngularJS
-- Kamra/Jasmine
+- Karma/Jasmine
 - Compass/Sass
 - Grunt
 - HTML5 Boilerplate 
